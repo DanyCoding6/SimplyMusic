@@ -16,3 +16,4 @@ How does it work?
 Notes:
 - Currently, the next song doesn't play upon the previous songs completion, I am working on this 
 - Also attempting to work on adding a song slider and time elapsed section
+- The music player was built as part of an RFID Music Player on a Raspberry Pi project
