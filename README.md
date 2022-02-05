@@ -3,6 +3,16 @@ A simple music player, powered by Python, utilising various libraries such as Tk
 
 ![SimplyMusic](SimplyMusic.png)
 
+Features:
+- Play Song
+- Previous Song
+- Next Song
+- Skip to specific song (from box on left)
+- Cover Art of Album
+- Volume Control
+- Album Selector (folder selector)
+- Restart Song
+
 Repositories:
 - Tkinter
 - Pygame
